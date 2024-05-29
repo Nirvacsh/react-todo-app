@@ -1,6 +1,8 @@
 # React TypeScript Todo App Based on Api
 
 This project is an advanced Todo application built with React and TypeScript. It offers a range of features to manage your todos efficiently, including CRUD operations, state management with React Context, and data handling with the fetch API.
+Project is deployed on github pages, you can check working demo via link below:
+- **DEMO LINK:** [https://nirvacsh.github.io/react-todo-app/](https://nirvacsh.github.io/react-todo-app/)
 
 ## Project Features
 
