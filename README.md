@@ -1,16 +1,29 @@
 # React TypeScript Todo App Based on Api
 
 This project is an advanced Todo application built with React and TypeScript. It offers a range of features to manage your todos efficiently, including CRUD operations, state management with React Context, and data handling with the fetch API.
-Project is deployed on github pages, you can check working demo via link below:
-- **DEMO LINK:** [https://nirvacsh.github.io/react-todo-app/](https://nirvacsh.github.io/react-todo-app/)
+
 
 ## Project Features
 
-* Add Todos: Create new todo items.
+* Add Todos: Create new to-do items.
 * Delete Todos: Remove unwanted todos from the list.
 * Toggle Completion: Mark todos as completed or incomplete.
 * Rename Todos: Edit the titles of existing todos.
 * Toggle All: Toggle the completion status of all todos at once.
+
+## Technologies Used
+
+* **React**: A JavaScript library for building user interfaces.
+* **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+* **CSS (SCSS)**: A preprocessor scripting language that is interpreted or compiled into CSS.
+* **Bulma**: A modern CSS framework based on Flexbox.
+* **ESLint**: A tool for identifying and fixing problems in JavaScript code.
+* **Fontawesome**: A library for scalable vector icons.
+
+##  Live Demo
+The project is deployed on GitHub pages, you can check the working demo via the link below:
+- **DEMO LINK:** [https://nirvacsh.github.io/react-todo-app/](https://nirvacsh.github.io/react-todo-app/)
+
 
 ## Available Scripts
 
@@ -24,13 +37,6 @@ The project includes various scripts for development tasks:
 * `npm run deploy` (requires gh-pages setup): Deploys the built project to GitHub Pages.
 
 
-## Usage
-
-1. **Add new todos**: Enter a title in the input field and press the 'Add' button.
-2. **Delete todos**: Click the delete button next to the todo item.
-3. **Edit todo titles**: Double-click on the todo title to edit it.
-4. **Toggle completion**: Click the checkbox to mark a todo as completed or incomplete.
-
 ## Folder Structure
 
 The project follows a well-organized structure for better maintainability. Key directories include:
@@ -40,11 +46,4 @@ The project follows a well-organized structure for better maintainability. Key d
 * `src/styles`: Contains CSS/SCSS files.
 * `src/api`: Contains API logic
 
-## Technologies Used
 
-* React: A JavaScript library for building user interfaces.
-* TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-* CSS (SCSS): A preprocessor scripting language that is interpreted or compiled into CSS.
-* Bulma: A modern CSS framework based on Flexbox.
-* ESLint: A tool for identifying and fixing problems in JavaScript code.
-* Fontawesome: A library for scalable vector icons.
