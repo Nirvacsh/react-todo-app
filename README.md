@@ -11,6 +11,12 @@ This project is an advanced Todo application built with React and TypeScript. It
 * Rename Todos: Edit the titles of existing todos.
 * Toggle All: Toggle the completion status of all todos at once.
 
+##  Live Demo
+
+The project is deployed on GitHub pages, you can check the working demo via the link below:
+- [DEMO LINK](https://nirvacsh.github.io/react-todo-app/)
+
+
 ## Technologies Used
 
 * **React**: A JavaScript library for building user interfaces.
@@ -20,9 +26,6 @@ This project is an advanced Todo application built with React and TypeScript. It
 * **ESLint**: A tool for identifying and fixing problems in JavaScript code.
 * **Fontawesome**: A library for scalable vector icons.
 
-##  Live Demo
-The project is deployed on GitHub pages, you can check the working demo via the link below:
-- **DEMO LINK:** [https://nirvacsh.github.io/react-todo-app/](https://nirvacsh.github.io/react-todo-app/)
 
 
 ## Available Scripts
